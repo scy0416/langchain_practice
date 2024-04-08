@@ -5,14 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="817ed1d8-6321-4ec3-b403-ea8c9fb70943" name="Changes" comment="환경 파일 생성">
-      <change afterPath="$PROJECT_DIR$/02/source code1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code7.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/02/source code8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/source code10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/source code11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/01/source code9.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +37,8 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.02.executor": "Run",
+    "Python.source code10.executor": "Run",
+    "Python.source code11.executor": "Run",
     "Python.source code2.executor": "Run",
     "Python.source code3.executor": "Run",
     "Python.source code4.executor": "Run",
@@ -49,6 +46,7 @@
     "Python.source code6.executor": "Run",
     "Python.source code7.executor": "Run",
     "Python.source code8.executor": "Run",
+    "Python.source code9.executor": "Run",
     "Python.test.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
