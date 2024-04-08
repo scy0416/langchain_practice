@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="817ed1d8-6321-4ec3-b403-ea8c9fb70943" name="Changes" comment="환경 파일 생성">
-      <change afterPath="$PROJECT_DIR$/.env.example" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02/source code8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,14 +39,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.02.executor": "Run",
+    "Python.source code2.executor": "Run",
+    "Python.source code3.executor": "Run",
+    "Python.source code4.executor": "Run",
+    "Python.source code5.executor": "Run",
+    "Python.source code6.executor": "Run",
+    "Python.source code7.executor": "Run",
+    "Python.source code8.executor": "Run",
+    "Python.test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\scy0416\PycharmProjects\langchain_practice\02" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
